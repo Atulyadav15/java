@@ -1,8 +1,8 @@
-import java.util.*;
+// import java.util.*;
 
-public class firstclass {
-    public static void main(String[] args)  {
-        // System.out.print("hello world"); the both line print the same line 
+// public class firstclass {
+//     public static void main(String[] args)  {
+//         // System.out.print("hello world"); the both line print the same line 
         // System.out.print("hello world");
 
         // to print line by line we use println
@@ -80,23 +80,23 @@ public class firstclass {
     // swiched statetment in java
 
 
-    Scanner sc = new Scanner( System.in);
-    int button = sc.nextInt();
-    int a = sc.nextInt();
-    int b = sc.nextInt();
+//     Scanner sc = new Scanner( System.in);
+//     int button = sc.nextInt();
+//     int a = sc.nextInt();
+//     int b = sc.nextInt();
 
-    switch (button) {
-        case 1:
-            System.out.println(a+b);
-            break;
-        case 2:
-            System.out.println(a*b);
-            break;
-        default:
-            System.out.println("Invalid input");
-            break;
-    }
+//     switch (button) {
+//         case 1:
+//             System.out.println(a+b);
+//             break;
+//         case 2:
+//             System.out.println(a*b);
+//             break;
+//         default:
+//             System.out.println("Invalid input");
+//             break;
+//     }
 
 
-    }
-}
+//     }
+// }
