@@ -89,7 +89,9 @@ public class function
         int b = sc.nextInt();
         int c = sc.nextInt();
         System.out.println(avg(a, b, c));
+        sc.close();
     }
+
 
 
 }
